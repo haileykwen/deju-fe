@@ -1,4 +1,4 @@
-import { faAddressCard, faArrowAltCircleRight, faArrowCircleRight, faArrowRight, faArrowRightArrowLeft, faClock, faList, faListAlt, faListDots, faListNumeric, faListOl, faLocationPin, faPhone, faRightLong } from '@fortawesome/free-solid-svg-icons';
+import { faArrowCircleRight, faClock, faLocationPin, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Component } from 'react';
 import { HomeFlashSale, HomeLanding, HomePopularProducts, HomeTestimoni, Navbar } from '../../components';
