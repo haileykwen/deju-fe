@@ -34,7 +34,7 @@ const HomeLanding = () => {
                     <HomeLandingFeature items={features} />
                 </div>
             </div>
-            <img src={IMG_LANDING} alt="image" className="w-[50%]" />
+            <img src={IMG_LANDING} alt="landing" className="w-[50%]" />
         </div>
     );
 };

@@ -45,7 +45,7 @@ const HomeFlashSale = () => {
             </div>
 
             <div className="w-[60%]">
-                <img className="w-full" src={dummyFlashSaleItem.banner} alt="image-flash-sale" />
+                <img className="w-full" src={dummyFlashSaleItem.banner} alt="flash-sale" />
             </div>
         </div>
     );

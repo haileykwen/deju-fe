@@ -1,4 +1,4 @@
-import { faCheck, faLocation, faLocationPin, faPhone } from "@fortawesome/free-solid-svg-icons";
+import { faCheck, faLocationPin, faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import HomeTestimoniItem from "../HomeTestimoniItem/HomeTestimoniItem";
 
