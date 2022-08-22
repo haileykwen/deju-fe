@@ -1,8 +1,10 @@
-import { Home } from "./pages";
+import { About, Home, Shop } from "./pages";
 
 const App = () => {
     return (
-        <Home />
+        // <Home />
+        // <About />
+        <Shop />
     );
 };
 

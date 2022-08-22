@@ -9,6 +9,8 @@ import HomePopularProducts from "./HomePopularProducts/HomePopularProducts";
 import HomeFlashSale from "./HomeFlashSale/HomeFlashSale";
 import HomeTestimoni from "./HomeTestimoni/HomeTestimoni";
 
+import Breadcrumb from "./Breadcrumb/Breadcrumb";
+
 export {
     Navbar,
     NavbarNavigation,
@@ -20,4 +22,6 @@ export {
     HomePopularProducts,
     HomeFlashSale,
     HomeTestimoni,
+
+    Breadcrumb,
 };
